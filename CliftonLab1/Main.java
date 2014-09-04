@@ -1,3 +1,5 @@
+//Douglas Clifton
+
 import java.util.Scanner;
 import java.io.*;
 
